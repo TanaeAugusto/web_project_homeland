@@ -10,4 +10,4 @@ Projeto desenvolvido durante o curso TripleTen.
 
 ## Acesse o projeto
 
-[Visualizar site](git@github.com:TanaeAugusto/web_project_homeland.git)
+[Visualizar site](git@github.com:TanaeAugusto/web_project_homeland.git/)
